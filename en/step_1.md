@@ -1,8 +1,3 @@
---- step ---
----
-title: Sense HAT: pressure readings
----
-
 - In a Python file, enter the following code:
 
     ```python
@@ -22,5 +17,3 @@ title: Sense HAT: pressure readings
     ```bash
     1013.40380859
     ```
-
---- /step ---
