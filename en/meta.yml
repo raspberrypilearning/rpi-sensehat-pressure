@@ -6,5 +6,8 @@ theme: cc-prototype
 duration: 1 # 1, 2 or 3
 ingredient: true
 listed: false
+copyedit: false
+interests:
+technologies: "python, sense hat"
 steps:
-  - title: Step one
+  - title: Reading pressure values
