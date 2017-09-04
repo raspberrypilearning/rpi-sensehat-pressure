@@ -1,0 +1,13 @@
+title: Reading pressure with the Sense HAT
+hero_image: images/banner.png
+description: Learn how to take a atmospheric pressure reading with the Sense HAT
+original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+theme: cc-prototype
+duration: 1 # 1, 2 or 3
+ingredient: true
+listed: false
+copyedit: false
+interests:
+technologies: "python, sense hat"
+steps:
+  - title: Reading pressure values
