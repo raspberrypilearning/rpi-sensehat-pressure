@@ -1,0 +1,4 @@
+name: "Sense HAT pressure"
+identifier: "rpi-sensehat-pressure-example"
+type: 'python'
+build: true
